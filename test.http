@@ -1,0 +1,15 @@
+DELETE http://localhost:3000/sepatu/61c5e06b1a9754ae3d5316e9/ HTTP/1.1
+# DELETE http://localhost:3000/notification/61c5c1150ba755ca79f2a863 HTTP/1.1
+
+# PATCH  http://localhost:3000/sepatu/61c5e0171a9754ae3d5316e7/ HTTP/1.1
+# content-type: application/json
+
+# {
+#     "kodeSepatu" : "sepatu002",
+#     "namaSepatu" : "nike airmax", 
+#     "warnaSepatu ": "green",
+#     "ukuranSepatu": 45,
+#     "hargaSepatu" : 4000000
+# }
+
+
